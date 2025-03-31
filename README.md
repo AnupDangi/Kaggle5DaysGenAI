@@ -23,12 +23,8 @@ https://www.kaggle.com/learn-guide/5-day-genai
 - Prompt engineering techniques
 
 **Learning Resources:**
-- [Whitepaper: Foundational Large Language Models & Text Generation](#)
-- [Whitepaper: Prompt Engineering](#)
-- [Code Lab: Prompt Engineering Fundamentals](#)
-- [Case Study: Advanced Prompt Engineering in Finance](#)
+https://www.kaggle.com/code/markishere/day-1-prompting
 
-📌 **[Read More](./docs/day1.md)**
 
 ---
 ## Day 2: Embeddings and Vector Stores
@@ -37,12 +33,13 @@ https://www.kaggle.com/learn-guide/5-day-genai
 - Using embeddings for text classification and retrieval
 
 **Learning Resources:**
-- [Whitepaper: Embeddings & Vector Stores](#)
-- [Code Lab: Build a RAG Question-Answering System](#)
-- [Code Lab: Explore Text Similarity with Embeddings](#)
-- [Code Lab: Neural Classification with Keras](#)
+- Pocast episode :https://www.youtube.com/watch?v=1CC39K76Nqs&ab_channel=Kaggle
+- Whitepaper : https://www.kaggle.com/whitepaper-embeddings-and-vector-stores?_gl=1*1kehhf3*_ga*ODc2NjI0NjIzLjE3NDI0OTI4MTI.*_ga_T7QHS60L4Q*MTc0MzQ0NDMwNC40LjEuMTc0MzQ1MDY0MC4wLjAuMA..
+- RAG: https://www.kaggle.com/code/markishere/day-2-document-q-a-with-rag
+- Document Q&A with RAG: https://www.kaggle.com/code/markishere/day-2-document-q-a-with-rag
+- Embeddings and similarity scores: https://www.kaggle.com/code/markishere/day-2-embeddings-and-similarity-scores
+- Classifying embeddings with Keras: http://kaggle.com/code/markishere/day-2-classifying-embeddings-with-keras
 
-📌 **[Read More](./docs/day2.md)**
 
 ---
 ## Day 3: Generative AI Agents
@@ -51,12 +48,8 @@ https://www.kaggle.com/learn-guide/5-day-genai
 - Connecting LLMs to external tools (SQL, APIs, etc.)
 
 **Learning Resources:**
-- [Whitepaper: Generative AI Agents](#)
-- [Code Lab: Database Querying with Function Calling](#)
-- [Code Lab: LangGraph-Based Ordering System](#)
-- [Case Study: AI in Software Development](#)
 
-📌 **[Read More](./docs/day3.md)**
+
 
 ---
 ## Day 4: Domain-Specific LLMs
@@ -66,11 +59,7 @@ https://www.kaggle.com/learn-guide/5-day-genai
 - Fine-tuning custom LLMs
 
 **Learning Resources:**
-- [Whitepaper: Solving Domain-Specific Problems with LLMs](#)
-- [Code Lab: Using Google Search Data in Generation](#)
-- [Code Lab: Fine-Tuning a Gemini Model](#)
 
-📌 **[Read More](./docs/day4.md)**
 
 ---
 ## Day 5: MLOps for Generative AI
@@ -79,10 +68,7 @@ https://www.kaggle.com/learn-guide/5-day-genai
 - Automating workflows with Vertex AI
 
 **Learning Resources:**
-- [Whitepaper: MLOps for Generative AI](#)
-- [Code Walkthrough: E2E Gen AI App Starter Pack](#)
 
-📌 **[Read More](./docs/day5.md)**
 
 ---
 ## Bonus: Exploring Gemini API
@@ -90,7 +76,6 @@ Additional learning resources and experiments with the **Gemini API**, covering:
 - Advanced capabilities beyond the course content
 - Custom implementations and integrations
 
-📌 **[Read More](./docs/bonus.md)**
 
 ---
 ## Contributing
