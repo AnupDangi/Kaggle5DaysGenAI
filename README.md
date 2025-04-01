@@ -48,7 +48,10 @@ https://www.kaggle.com/code/markishere/day-1-prompting
 - Connecting LLMs to external tools (SQL, APIs, etc.)
 
 **Learning Resources:**
-
+- Pocast episode :https://www.youtube.com/watch?v=H4gZd4BCrDQ&ab_channel=Kaggle
+- Whitepaper : https://www.kaggle.com/whitepaper-agents
+- Talk to Datatase with function Calling :https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api
+- Build an agentic ordering system in LangGraph : https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/
 
 
 ---
