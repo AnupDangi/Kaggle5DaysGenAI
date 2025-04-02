@@ -62,6 +62,10 @@ https://www.kaggle.com/code/markishere/day-1-prompting
 - Fine-tuning custom LLMs
 
 **Learning Resources:**
+- Pocast episode :https://www.youtube.com/watch?v=b1a4ZOQ8XdI&ab_channel=Kaggle
+- Whitepaper :https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms
+- Use Google Search Data in generation :https://www.kaggle.com/code/markishere/day-4-google-search-grounding
+- Tune a Gemini model with a Custom task: https://www.kaggle.com/code/markishere/day-4-fine-tuning-a-custom-model
 
 
 ---
@@ -71,7 +75,9 @@ https://www.kaggle.com/code/markishere/day-1-prompting
 - Automating workflows with Vertex AI
 
 **Learning Resources:**
-
+- Podcast: https://www.youtube.com/watch?v=k9S6IhiUUj4&ab_channel=Kaggle
+- Whitepaper: https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops
+- No Code lab go through demo of Github repo of GCP(agent-starter-pack):https://github.com/GoogleCloudPlatform/agent-starter-pack
 
 ---
 ## Bonus: Exploring Gemini API
