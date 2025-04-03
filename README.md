@@ -8,6 +8,9 @@ This course covers fundamental technologies and techniques behind Generative AI,
 ## Overall 5 Days GENAI GUIDE
 https://www.kaggle.com/learn-guide/5-day-genai
 
+## Key Suggestion:
+Please practice in google collab or either kaggle for better environment with the jupyter notebook.
+
 ## Table of Contents
 - [Day 1: Foundational Models & Prompt Engineering](#day-1-foundational-models--prompt-engineering)
 - [Day 2: Embeddings and Vector Stores](#day-2-embeddings-and-vector-stores)
